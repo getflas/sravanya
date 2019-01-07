@@ -1,5 +1,5 @@
-class A:
-	def div(self):
+class Sum:
+	def sum(self):
 		"""
 		classifier:manage
 		section classifier:1 2
@@ -7,5 +7,5 @@ class A:
 		dependent_is_built_in:True
 		path:Others/Task/Task5/Flas
 		"""
-		print "div"
+		print "sum"
 		return None

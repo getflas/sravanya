@@ -1,4 +1,4 @@
-class B:
+class Multiplication:
 	def mul(self):
 		"""
 		classifier:manage
