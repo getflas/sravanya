@@ -1,7 +1,0 @@
-1. Enter the email
-2. Enter the password
-3. Enter the user name
-4. Enter the role name
-5. Enter the company name
-6. Enter the account name
-7. Enter the project name
